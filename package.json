@@ -1,6 +1,7 @@
 {
 	"author": "Hugo Tallys Martins Oliveira",
-  "description": "A project that does something",
+	"description": "A project that does something",
+  "keywords": ["back-end", "nodejs", "javascript", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
